@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="chooser_web">Browse with</string>
+    <string name="chooser_postman">My Postman is</string>
+    <string name="chooser_map">Best map for this is</string>
+</resources>
